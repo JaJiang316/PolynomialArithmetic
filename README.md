@@ -1,2 +1,2 @@
 # PolynomialArithmetic
-Take two polynomials and add, subtract and multiply them, then output each
+Take two polynomials linked lists and add, subtract and multiply them, then output each
